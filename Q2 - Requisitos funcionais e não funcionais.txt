@@ -1,4 +1,5 @@
 RF001 - Configurar as informações do texto.
 
 RNF001 [Segurança] - Para todos os úsuarios do sistema, a senha devera ser criptografada no banco de dados em 100% dos casos.
+
 RNF002 [Desempenho] - Para todas as telas do sistema o tempo médio de resposta da aplicação tem que ser menor ou igual a 2 segundos em 90% dos casos.
