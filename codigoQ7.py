@@ -1,3 +1,5 @@
+#usuário: amdim
+#senha: 1234
 import streamlit as st # type: ignore
 import hashlib
 
@@ -182,4 +184,5 @@ else:
                 st.success("Produto removido")
 
         else:
+
             st.warning("Nenhum produto para remover")
